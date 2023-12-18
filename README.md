@@ -1,6 +1,6 @@
 # Automated_game_battle_system
 
-Welcome to your first video game creation. You will create a video game that creates a character's health and attack stats...along with an epic name for your character.
+Welcome to your first video game creation in python. You will create a video game that creates a character's health and attack stats...along with an epic name for your character.
 
 **Part 1 - **
 
@@ -28,3 +28,5 @@ That was first part of the game. save it and move on to part 2 to make it more i
 8. At the end of each round, check the stats of each character to ensure neither of them have died yet.
 9. When one character dies (they run out of health), declare a winner of the battle!
 10. To keep this battle from looking hideous between rounds use time.sleep to pause between rounds os.system("clear") to ensure the screen clears between battles.
+
+Follow for more - https://twitter.com/mohittt_p
